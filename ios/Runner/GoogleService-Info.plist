@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>156514679388-uf5vqj31li30afdo1fpqnt766v2b00cp.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.156514679388-uf5vqj31li30afdo1fpqnt766v2b00cp</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBICSDwUYkeQAFmiCJ5QwjoJnjUaXBn9qQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>156514679388</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.improsso</string>
+	<key>PROJECT_ID</key>
+	<string>improsso-700aa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>improsso-700aa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:156514679388:ios:437ebb311e2a2c59924499</string>
+</dict>
+</plist>
